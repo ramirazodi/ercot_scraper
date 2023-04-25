@@ -1,0 +1,6 @@
+beautifulsoup4==4.11.1
+chromedriver-binary==112.0.5615.49
+pandas==1.4.1
+requests==2.23.0
+selenium==4.7.2
+tqdm==4.65.0
