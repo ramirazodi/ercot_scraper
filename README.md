@@ -1,5 +1,5 @@
 # ercot_scraper
-ERCOT MIS extract scraper for zip extracts that containt csv files
+Electricity Reliability Council of Texas (ERCOT) MIS extract scraper for zip extracts that containt csv files
 
 # README
 
